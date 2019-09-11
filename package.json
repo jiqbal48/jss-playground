@@ -1,0 +1,21 @@
+{
+  "name": "core-jss-playground-awesome",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/z21lpmvv33",
+  "main": "index.js",
+  "dependencies": {
+    "jss-preset-default": "4.0.1",
+    "jss": "9.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
